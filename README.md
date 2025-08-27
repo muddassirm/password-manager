@@ -16,5 +16,6 @@ A simple and secure **Password Manager** application that helps users store, man
 
 1. **Clone the repository**  
    ```bash
-   git clone https://github.com/your-username/password-manager.git
+   git clone https://github.com/muddassirm/password-manager.git
    cd password-manager
+   npm run dev
